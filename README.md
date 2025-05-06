@@ -38,5 +38,5 @@ ________________________________________________________________________________
 
 * About Me
 
-Hi there! I'm Payal Sangamkar, I am an data engineer
-created this project to showcase the competency in SQL, ETL, Data analytics.
+Hi there! I'm Payal Sangamkar, an enthusiast data engineer
+created this project to showcase the competency in SQL, ETL, Data analytics and reporting.
