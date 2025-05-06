@@ -33,9 +33,8 @@ Develop SQL-based analytics to deliver detailed insights into:
 . Customer Behavior
 . Product Performance
 . Sales Trends
-______________________________________________________________________________________________________________________
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
-
+______________________________________________________________________________________________________________________
 
 * About Me
 
